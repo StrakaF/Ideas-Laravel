@@ -13,5 +13,5 @@
             Blanditiis quia at rem vitae porro molestias, doloremque ratione ad inventore quam! Nobis temporibus animi omnis, velit explicabo vero, aut nulla ipsam debitis quas quia nisi neque totam, ex voluptatibus!
             Ratione illum id iusto numquam natus ea eveniet animi consequatur rerum exercitationem reprehenderit doloribus, officiis corporis voluptas dolores. Ipsam placeat impedit architecto, optio dolore maxime cupiditate? Soluta nostrum velit praesentium?
             Ab non eaque ducimus aut praesentium voluptate unde recusandae, voluptatem vitae assumenda quibusdam dignissimos aperiam ratione sint. Tempora voluptates qui ullam deleniti, harum sapiente dolorum deserunt. Quaerat eos temporibus sit!</p>
-        </div>
+        </div
         @endsection
