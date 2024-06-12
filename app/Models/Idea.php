@@ -12,6 +12,5 @@ class Idea extends Model
     protected $fillable = [
         'content',
         'likes'
-
     ];
 }
